@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Infrastructure\ReadingApp.Infrastructure\ReadingApp.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Copy SourceFiles="$(ProjectDir)bin\Debug\net7.0\ReadingApp.AdditionalPropertyProcessor.PGNiGEstimations.dll" DestinationFolder="$(SolutionDir)WebAPI\ReadingApp.WebAPI\bin\Debug\net7.0" SkipUnchangedFiles="false" />
+  </Target>
+
+</Project>
