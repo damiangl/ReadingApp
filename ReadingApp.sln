@@ -7,11 +7,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebAPI", "WebAPI", "{1D71E4
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadingApp.WebAPI", "WebAPI\ReadingApp.WebAPI\ReadingApp.WebAPI.csproj", "{9695CDE9-AC2D-4946-8F73-C01102E49981}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadingApp.Infrastructure", "Infrastructure\ReadingApp.Infrastructure\ReadingApp.Infrastructure.csproj", "{037586D7-7E70-4679-9756-A247609D6C21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadingApp.Shared", "Shared\ReadingApp.Shared\ReadingApp.Shared.csproj", "{037586D7-7E70-4679-9756-A247609D6C21}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadingApp.AdditionalPropertyProcessor.PGNiGEstimations", "WebAPI\ReadingApp.AdditionalPropertyProcessor.PGNiGEstimations\ReadingApp.AdditionalPropertyProcessor.PGNiGEstimations.csproj", "{731164E7-118A-45A7-9E11-EF3A7F4B99E0}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{A71C1CE8-4CEB-42D4-BDBB-A8FA513C222A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{A71C1CE8-4CEB-42D4-BDBB-A8FA513C222A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

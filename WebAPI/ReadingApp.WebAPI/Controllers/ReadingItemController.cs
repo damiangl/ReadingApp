@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using ReadingApp.Infrastructure.DTOs;
+using ReadingApp.Shared.DTOs;
 using ReadingApp.WebAPI.Services.Interfaces;
 
 namespace ReadingApp.WebAPI.Controllers

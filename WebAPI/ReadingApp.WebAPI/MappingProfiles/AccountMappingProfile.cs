@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Identity;
-using ReadingApp.Infrastructure.DTOs;
-using ReadingApp.Infrastructure.Entities;
+using ReadingApp.Shared.DTOs;
+using ReadingApp.Shared.Entities;
 
 namespace ReadingApp.WebAPI.MappingProfiles
 {

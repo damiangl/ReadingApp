@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore.Query.SqlExpressions;
-using ReadingApp.Infrastructure.DTOs;
-using ReadingApp.Infrastructure.Entities;
+using ReadingApp.Shared.DTOs;
+using ReadingApp.Shared.Entities;
 using ReadingApp.WebAPI.DbContexts;
 using ReadingApp.WebAPI.Services.Interfaces;
 

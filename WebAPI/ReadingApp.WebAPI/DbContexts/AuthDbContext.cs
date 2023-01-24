@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using ReadingApp.Infrastructure.Entities;
+using ReadingApp.Shared.Entities;
 
 namespace ReadingApp.WebAPI.DbContexts
 {

@@ -11,7 +11,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using Microsoft.AspNetCore.Identity;
-using ReadingApp.Infrastructure.Entities;
+using ReadingApp.Shared.Entities;
 using ReadingApp.WebAPI.Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);

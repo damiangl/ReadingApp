@@ -1,4 +1,4 @@
-﻿using ReadingApp.Infrastructure.DTOs;
+﻿using ReadingApp.Shared.DTOs;
 
 namespace ReadingApp.WebAPI.Services.Interfaces
 {

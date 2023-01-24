@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using ReadingApp.Infrastructure.DTOs;
-using ReadingApp.Infrastructure.Entities;
+using ReadingApp.Shared.DTOs;
+using ReadingApp.Shared.Entities;
 using ReadingApp.WebAPI.Services;
 using System.Collections.Generic;
 using System.Reflection.Emit;

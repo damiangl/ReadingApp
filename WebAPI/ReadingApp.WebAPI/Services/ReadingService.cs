@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Http.HttpResults;
 using ReadingApp.WebAPI.DbContexts;
-using ReadingApp.Infrastructure.DTOs;
-using ReadingApp.Infrastructure.Entities;
+using ReadingApp.Shared.DTOs;
+using ReadingApp.Shared.Entities;
 using System.Collections.Generic;
 using ReadingApp.WebAPI.Helpers;
 using ReadingApp.WebAPI.Services.Interfaces;

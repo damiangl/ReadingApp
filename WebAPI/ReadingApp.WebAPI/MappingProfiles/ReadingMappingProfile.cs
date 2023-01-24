@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
-using ReadingApp.Infrastructure.DTOs;
-using ReadingApp.Infrastructure.Entities;
+using ReadingApp.Shared.DTOs;
+using ReadingApp.Shared.Entities;
 using ReadingApp.WebAPI.Helpers;
 
 namespace ReadingApp.WebAPI.MappingProfiles

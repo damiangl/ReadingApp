@@ -1,8 +1,8 @@
-﻿using ReadingApp.Infrastructure.Entities;
+﻿using ReadingApp.Shared.Entities;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace ReadingApp.Infrastructure.DTOs
+namespace ReadingApp.Shared.DTOs
 {
     public class ReadingItemDto
     {

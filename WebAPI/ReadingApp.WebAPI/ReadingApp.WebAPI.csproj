@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Infrastructure\ReadingApp.Infrastructure\ReadingApp.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\Shared\ReadingApp.Shared\ReadingApp.Shared.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -1,5 +1,5 @@
-﻿using ReadingApp.Infrastructure.Entities;
-using ReadingApp.Infrastructure.Interfaces;
+﻿using ReadingApp.Shared.Entities;
+using ReadingApp.Shared.Interfaces;
 using System.Reflection;
 
 namespace ReadingApp.WebAPI.Helpers

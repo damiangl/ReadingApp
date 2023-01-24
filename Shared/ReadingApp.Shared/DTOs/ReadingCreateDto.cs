@@ -1,10 +1,10 @@
-﻿namespace ReadingApp.Infrastructure.DTOs
+﻿namespace ReadingApp.Shared.DTOs
 {
-    public class ReadingUpdateDto
+    public class ReadingCreateDto
     {
-        public int Id { get; set; }
         public String? Name { get; set; }
         public String? Description { get; set; }
         public String? AdditionalPropertyProcessor { get; set; }
+
     }
 }

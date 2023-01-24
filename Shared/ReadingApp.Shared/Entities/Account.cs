@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ReadingApp.Infrastructure.Entities
+namespace ReadingApp.Shared.Entities
 {
     public class Account
     {

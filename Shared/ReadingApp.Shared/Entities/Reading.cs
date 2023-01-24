@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel;
 
-namespace ReadingApp.Infrastructure.Entities
+namespace ReadingApp.Shared.Entities
 {
     [Table("reading")]
     public class Reading

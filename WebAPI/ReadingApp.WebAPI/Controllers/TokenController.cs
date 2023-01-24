@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
-using ReadingApp.Infrastructure.DTOs;
+using ReadingApp.Shared.DTOs;
 using ReadingApp.WebAPI.DbContexts;
 using ReadingApp.WebAPI.Services.Interfaces;
 using System.IdentityModel.Tokens.Jwt;

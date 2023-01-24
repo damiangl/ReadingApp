@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ReadingApp.Infrastructure.Interfaces
+namespace ReadingApp.Shared.Interfaces
 {
     public interface IAdditionalPropertyProcessor
     {

@@ -1,4 +1,4 @@
-﻿using ReadingApp.Infrastructure.Interfaces;
+﻿using ReadingApp.Shared.Interfaces;
 using System.Text.Json;
 
 namespace ReadingApp.AdditionalPropertyProcessor.PGNiGEstimations
