@@ -1,7 +1,7 @@
 # ReadingApp
 ## Introduction
 Project created for fun. Application should be able to manage reading (gas, water, electricity) and predict maintenance costs.
-ReadingApp contains two parts: WebAPI and Client (in future).
+ReadingApp contains two parts: WebAPI (under contruction) and Client (in future).
 ## Technologies
 ### WebAPI
 Packages:
