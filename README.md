@@ -11,11 +11,6 @@ Packages:
 - AutoMapper (Map from entity to DTO and reverse)
 - NLog (logging errors etc)
 - JwtBearer (authentication by JSON Web Token)
-Trick Highlight:
-- reflection (running extended assemby methods providing custom propertief for reading types)
-- full of dependency injections
-- IMiddleware by AspNetCore.Http (catching exceptions)
-- IPasswordHasher by AspNetCore.Identity (hashing password in DB)
 ### Client
 TODO (Angular, ASP.NET Core WebApp, WPF App or UWP)
 ## Setup
